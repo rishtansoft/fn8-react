@@ -1,0 +1,8 @@
+export default function About() {
+  return (
+    <div>
+     <h1>About</h1>
+     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea consequatur officiis, incidunt harum nisi eaque voluptas ducimus dolorem quibusdam architecto delectus cupiditate hic est animi, sunt deleniti temporibus perspiciatis minima. Perspiciatis ad, quaerat iste laboriosam magnam esse eligendi qui voluptatem porro aliquid. Beatae omnis molestiae ipsum laborum doloremque reprehenderit suscipit nemo, quae ut, accusamus facilis mollitia praesentium! Sit tempore explicabo est voluptates dicta delectus deserunt. Quos repellat ipsam quidem velit, impedit doloribus iste perferendis, at temporibus nihil voluptatibus! Animi, deserunt amet impedit libero nesciunt suscipit quidem ab excepturi hic accusantium magnam quo error quasi eum architecto explicabo voluptas, repellat officiis, atque facilis incidunt. Perferendis, mollitia repudiandae ipsum a ex repellendus quisquam suscipit quod illum ipsa reprehenderit. Incidunt laboriosam libero explicabo omnis expedita deleniti veniam ad aperiam quasi harum repellendus, reiciendis eaque fugit tenetur quidem quos ducimus vitae voluptatum cupiditate fugiat alias? Voluptatem placeat optio neque. Adipisci, quo delectus ex laborum placeat id voluptatibus aliquam ipsa obcaecati veritatis itaque eaque ad odio odit, blanditiis provident necessitatibus tenetur ea ratione vitae numquam distinctio sequi in? Aliquam iste voluptatibus sit atque excepturi, vero odio pariatur vel non velit, possimus nulla quasi impedit molestias deserunt dolore facilis adipisci doloribus perspiciatis? Aperiam harum nihil illo.</p>
+    </div>
+  )
+}

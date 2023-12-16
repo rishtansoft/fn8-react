@@ -1,0 +1,23 @@
+
+[data-theme = 'dark'] {
+  --bg-color: blue;
+  --text-color: white;
+}
+
+[data-theme = 'light'] {
+  --bg-color: aqua;
+  --text-color: orange;
+}
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}

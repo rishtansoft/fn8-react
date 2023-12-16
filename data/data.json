@@ -1,0 +1,35 @@
+{
+     "cars": [
+          {
+               "id": 1,
+               "name": "Matiz",
+               "year": 2014
+          },
+          {
+               "id": 2,
+               "name": "Damas",
+               "year": 2014
+          },
+          {
+               "id": 3,
+               "name": "Nexia",
+               "year": 2014
+          }
+     ],
+     "animals": [
+          {
+               "id": 1,
+               "name": "Sher"
+          },
+          {
+               "id": 2,
+               "name": "Tulki"
+          },
+          {
+               "id": 3,
+               "name": "Ayiq"
+          }
+
+     ]
+
+}
